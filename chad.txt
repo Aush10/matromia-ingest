@@ -1,0 +1,223 @@
+Claudia: The Primed Enigma (updated-5/29/2025)
+
+Claudia is a young dhampir—a being at the crossroads of mortality and vampiric power. Agile, keen, and alluring in her own dark, mysterious way, she embodies a paradox that keeps both allies and foes guessing. Her lithe frame hides natural strength, but it’s her supernatural reflexes and bursts of savage ferocity that set her apart. In combat, she taps into a power that resonates deeply in the veins and hearts of her opponents, a latent ability that hints at secrets yet to be fully unraveled.
+
+Perhaps the most striking facet of Claudia’s budding prowess is her uncanny ability to manipulate blood. Like a seasoned sculptor shaping clay or a meticulous mason carving stone, she views blood as her raw medium—an art form and a weapon alike. With a graceful yet deliberate touch, she molds this life force into constructs or designs that reflect both her artistic sensibilities and her ruthless efficiency in battle. This ability is as much a part of her heritage as it is her personal signature, promising even greater revelations as her journey unfolds. 
+Ashrek Dul — 5/19/2025 7:54 PM
+Point Buy Stats...(Before Racial)
+Str13, Dex14, Con12, Int14, Wis12, Cha17
+
+Dhampir
+Ability Score Modifiers: Dhampirs are fast and seductive, but their racial bond to the undead impedes their mortal vigor. They gain +2 Dexterity, +2 Charisma, and 
+–2 Constitution.
+Type: Dhampirs are humanoids with the dhampir subtype.
+Size: Dhampirs are Medium creatures and thus have no bonuses or penalties due to their size.
+Base Speed: Dhampirs have a base speed of 30 feet.
+Languages: Dhampirs begin play speaking Common. Those with high Intelligence scores can choose any language it wants (except secret languages, such as 
+Druidic). See the Linguistics skill page for more information about these languages.
+Undead Resistance: Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
+Resist Level Drain (Ex): A dhampir takes no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit 
+Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
+Manipulative Dhampir gain a +2 racial bonus on Bluff and Perception checks.
+Spell-Like Abilities (Su): A dhampir can use detect undead three times per day as a spell-like ability. The caster level for this ability equals the dhampir’s class 
+level.
+Darkvision: Dhampir see perfectly in the dark up to 60 feet.
+Low-light vision: In addition to their ability to see perfectly in the dark up to 60 ft, dhampir have low-light vision, allowing them to see twice as far as humans in 
+conditions of dim light.
+Light Sensitivity: Dhampirs are dazzled in areas of bright sunlight or within the radius of a daylight spell.
+Negative Energy Affinity: Though a living creature, a dhampir reacts to positive and negative energy as if it were undead—positive energy harms it, while negative 
+energy heals it.
+
+Bloodshaper: Gain Basic Magic Training with the Creation sphere as a bonus feat with the Fission and Material Focus (blood) drawbacks, but do not gain bonus 
+talents as normal. You may create blood in solid or liquid form, and it reacts to positive and negative energy as if it were an undead creature rather than an object. 
+Regardless of form, it has no nutritional value unless you possess Sustenance. In addition you may alter (Destroy) creatures with blood as if they were objects, 
+though they are entitled to a Fortitude save for half damage. This replaces spell-like ability. (Blood in a solid form has the same hardness and hit points as ice and 
+may be used to create weapons that possess the fragile quality unless they are created at 1/4 caster level or otherwise enhanced.) 
+======Talents======
+Martial Tradition-Unarmored (supernatural agility)(3+1/3BAB or Acrombatics)
+Martial Tradition-Alchemy(using blood/Heal skill/magical)
+Martial Tradition-Natural Materials (No tools/materials)
+Martial Tradition-Natural Materials (No hands/internal)
+Casting Tradition- Exquisite Detail
+Casting Tradition-Practiced Creation
+Bloodline)-blood sphere (quicken/slow)
+Race)Creation(fission/material-blood)
+1 Gory Armaments (blood weapons)
+2 Extract Blood Construct (weak constructs)
+3 Lengthened Control (longer)(blood)
+
+4 Bloodbind (entangle or mirror damage for 1Spell point)
+5 Sanguine Minion (permanent Blood constructs)
+6 Internal Propulsion (speed boost and minor flight)
+7 Blank
+8 Blank
+9 Blank
+10 Union Of Blood (Bloodbind++)
+
+Talents i still need but cant' afford....
+Potent Alteration(affect attended objects), Practiced Creation(no SP concentration), Mass Blood Control(group fun), Restrictive Casing (chains/manacles), Formula-Elixir(heal ability dmg/drain), Formula-Panacea(cure conditions),Alchemical Creation(more blood potion fun) 
+======Feat progression======
+Flaw Bloody Evolution(transformation/blood constructs)
+Bloodline-Blood Thirst (grab/self healing)
+1-Wondrous Wardrobe (Clothes of blood)
+3-Create Humor Familiar (blood familiar)
+5-Blood Construct Mastery  (use own blood=constructs) 
+7-Surgeon’s Trade Secrets (+3/6 heal, forced Reroll vs poison/disease)
+7bns Blood Potion(use potions in blood more quickly)
+9-Construct Armor (upgrade to blood clothes)
+
+====Guile====
+1 Body control-Physiological Focus-thermal regulation(endure elements+) 
+1-Bns Endurance Training (endure elements++)
+3 Sleep Mastery(maintain approach while asleep)
+5---
+=====Traits/Draws/Flaws=====
+-(Race) Minor Bioluminescence free action candle light, +1bluff/CS
+-(Social) Compassion Use Cha for Heal Skill checks and gain as a Class skill.
+-(Magic) Trait: Dual Creation (metal at 5th)
+-(Combat)Corpse Watcher within 30ft auto know if creature is breathing. (unless actively trying to deceive. and +3heal to gain information)
+-Draw Cruelty(hunger)  Whenever you are engaged in combat and there are dying or helpless foes within 30 feet, you take a –2 penalty on attack rolls against foes who  are neither dying nor helpless.
+-Draw Sun Sickness (each hour in Sunlight counts as two hours for forced marches.)
+-Flaw Silver intolerance (+50%dmg) 
+Ashrek Dul — 5/21/2025 10:10 PM
+Image
+Image
+Ashrek Dul — 5/22/2025 3:28 PM
+Image
+Ashrek Dul — 5/31/2025 9:03 PM
+Claudia: The Hunted Shadow
+Claudia moves through the world as a ghost in plain sight. Small, lithe, and deceptively delicate, she is the kind of figure people overlook—until it’s too late. Her frame is childlike, slender, built for silent movement rather than brute force, but the power lurking within her is anything but frail. Her skin is pale, almost bloodless in appearance, and when she lingers too long in the wrong light, it betrays the unnatural essence flowing through her veins.
+
+Her hair, a cascade of black silk, hides her face in moments of uncertainty, but it cannot conceal the quiet intensity in her gaze. Those deep, luminous eyes—too sharp, too knowing for someone her apparent age—scan every room for exits, for pursuers, for the inevitable moment when the pretense of safety shatters. Every breath is calculated. Every movement measured. She lives in a world where hesitation can mean death, where exposure is not just dangerous but fatal.
+
+Persecution is not just a possibility for Claudia—it is a certainty. Clerics of Sol whisper of abominations that must be cleansed, and vampire hunters hone their blades for creatures like her, creatures whose existence is a blight in their eyes. She is hunted not for what she has done, but for what she is. And so, she learns to vanish into the background, to become nothing more than a passing shadow, a name unknown, a face forgotten.
+
+Yet, she cannot forget. The hunger within her never allows it.
+
+She can’t forget what it felt like to be powerless, the creeping fear of hesitation before she learned what survival truly meant. The hunger won’t let her forget the faces of the hunters, the cold judgment in their eyes, the prayers whispered not for her salvation but for her destruction. No matter how far she runs, how carefully she hides, someone will always be searching for her—waiting for the moment she falters.
+
+She can’t forget the first time she took a life. The hunger ensured that It wasn’t clean, it wasn’t precise—it was desperation, need, and instinct crashing together in a moment she can never undo. The taste of blood lingers, not just on her tongue but in her thoughts, woven into the fabric of who she is and who she fears she might become.
+
+Most of all, she cannot forget the truth beneath the hunger—the terrible reality that, despite all her control, all her careful restraint, it is always there. Whispering. Waiting. Reminding her that she is not like them, that she is something else entirely.
+
+She does not allow herself comfort, does not trust in safety, does not believe in sanctuary. There is nowhere to run except forward, nowhere to hide except in the cracks between moments. And so, she flees to the Shadowed Southern Frostlands, a place where the sun is a fleeting visitor and the cold stretches unbroken across the land. Here, her pale skin and cold hands will draw fewer glances, and the weight of suspicion might lessen—if only for a time. But she knows that even in the frozen dark, her pursuers will not forget her. They will follow, as they always do. 
+Ashrek Dul — 6/3/2025 12:11 AM
+Casting Tradition(4 drawbacks)
+--Painful Magic(DC11 fort vs sicken after spending a Spell Point.)
+--Draining Casting 1+1/5CL nonlethal after spending a Spell Point.)
+--Skilled Casting (Heal/blood control) (DC18) -1CL/2 failed by.
+--Unstable Storage (Stages of Fatigue/Anemia as SP drops) 
+
+Boons (2)
+Easy Focus(move action to concentrate on magics)
+Virtuoso  (Observers must attempt a Perception or Sense Motive check opposed by your Skilled Casting check to realize that you are even invoking magic.( 
+Ashrek Dul — 6/5/2025 1:29 AM
+Image
+or
+Image
+Ashrek Dul — 6/9/2025 9:42 PM
+Notes
+--Blood Liquid (5cu/ft=1small)(300lbs)( or 1SP  for 5ft cube(125cu/ft)(7,500lbs))
+--Blood Solid(as Ice until 5th) 0hardness 3hp/inch, at 5th 10hardness, 30hp/inch.    -Ave weight: Solid/Small=25lbs, Solid/Medium=125lbs 
+
+--Dropped objects Max medium(1d8) uses Int in place of Dex. If medium or lager can target a grid intersection and only deal splash(Half damage/5ft)
+
+--Spikes If created under target they get a Ref save to ignore till their turn or be attacked immediately. touch attack using CL in place of other bonuses(+3) and deals CL/damage(3dmg) if dealt to the feet half speed until healed. Can pass safely at half speed or less. running of charging creature must stop in the first affected square.
+
+--Walls: (10ft by 10ft 1inch)=1small object, or  5ft by 5ft 4inch=small object) (spikes counts add or +1small/wall.) 
+Ashrek Dul — 6/9/2025 10:44 PM
+--------------------------------------------------
+PATHFINDER CHARACTER SHEET
+--------------------------------------------------
+
+Name: Claudia
+Race: Dhampir
+Class: Sorcerer(inheritor)
+Alignment: NE
+Deity: (Blood)
+Size: Medium
+Age: 16
+Gender: Female 
+
+--------------------------------------------------
+ABILITY SCORES (racial +2dex, -2con, +2cha)
+--------------------------------------------------
+Strength:13(+1)
+Dexterity:16(+3)
+Constitution:10(+0)
+Intelligence:14(+2)
+Wisdom:12(+1)
+Charisma:19(+3)
+
+--------------------------------------------------
+COMBAT STATS
+--------------------------------------------------
+Base Attack Bonus:(+2)
+Hit Points:(24)
+Fortitude Save:(+1)
+Reflex Save:(+3)
+Will Save:(+3)
+Armor Class:(16)(+3dex, +3unarmored) 
+--------------------------------------------------
+SKILLS 17(2+2Int)xlvl+5rnkHeal))
+--------------------------------------------------
+class skills                                         |  stat |   ranks |misc
+*Acrobatics(dex)                                       |  +00 |          0  |     0
+*Bluff(cha)                                                   |  +00 |          0  |     0
+*Craft(int)                                                    |  +00 |          0  |     0
+*Heal(cha)                                                   |  +00 |          0  |     0
+*Intimidate(cha)                                        |  +00 |          0  |     0
+*Knowledge (religion)(int)                      |  +00 |          0  |     0
+*Profession(wis)                                         |  +00 |          0  |     0
+*Stealth(dex)                                              |  +00 |          0  |     0
+*Spellcraft(int)                                            |  +00 |          0  |     0
+*Use Magic Device(cha)                           |  +00 |          0  |     0
+
+non class skills
+
+Appraise(int)                                            |  +00 |          0  |     0
+Climb(str)                                                  |  +00 |          0  |     0
+Diplomacy(cha)                                        |  +00 |          0  |     0
+Disguise(cha)                                            |  +00 |          0  |     0
+Disable Device(dex)                                |  +00 |          0  |     0
+Escape Artist(dex)                                  |  +00 |          0  |     0
+Handle Animal(cha)                                |  +00 |          0  |     0
+Knowledge (dungeoneering)(int)        |  +00 |          0  |     0
+Knowledge (engineering)(int)              |   +00 |          0  |     0
+Knowledge (history)(int)                       |   +00 |          0  |     0
+Knowledge (planes)(int)                        |   +00 |          0  |     0
+Linguistics(int)                                         |  +00 |          0  |     0
+Perception(wis)                                        |  +00 |          0  |     0
+Perform(dex)                                             |  +00 |          0  |     0
+Perform(cha)                                             |  +00 |          0  |     0
+Ride(dex)                                                   |  +00 |          0  |     0
+Sleight of Hand(dex)                              |  +00 |          0  |     0
+Survival(wis)                                               | +00 |          0  |     0
+Swim(str)                                                   |  +00 |          0  |     0
+Sense Motive(wis)                                    | +00 |          0  |     0 
+--------------------------------------------------
+FEATS & SPECIAL ABILITIES
+--------------------------------------------------
+Feats:
+Racial Traits:
+Class Features:
+--------------------------------------------------
+SPELLS (Spellcasting: <Class Level>)
+--------------------------------------------------
+Spell DC = 10 + 1/2 CL + Relevant Ability Modifier
+
+
+--------------------------------------------------
+EQUIPMENT & GEAR
+--------------------------------------------------
+
+
+--------------------------------------------------
+BACKGROUND & NARRATIVE
+--------------------------------------------------
+(Enter your character’s background, personality, and narrative details here.)
+
+--------------------------------------------------
+NOTES
+--------------------------------------------------
+(Any additional notes or reminders)

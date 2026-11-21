@@ -1,0 +1,311 @@
+casper — 5/20/2025 11:14 PM
+Image
+Image
+casper — 6/3/2025 4:54 PM
+Image
+name:ryoko kuran
+race: catfolk
+the rest:later
+casper — 6/4/2025 11:44 PM
+Image
+casper — 6/9/2025 6:29 PM
+casting tradition:
+drawbacks-Draining Casting, Mental Focus, Skilled Casting(dance(or perform, pending koh's ruling)), Magical Signs, innate curse(sanguine), Wild Magic(other spirits join in on the performance)
+
+boons-drawback feat(Curse Mastery (Drawback)), Wild Surge, virtuoso(dance(or perform, pending koh's ruling))
+
+description: A catfolk of modest renown in the northern lands, she is often known for her eclectic fashion—adorned in garments from distant continents, a walking testament to cultures she has crossed. But here, in this unfamiliar land, practicality has forced a shift. Heavy furs now shroud her frame, their weight pressing down the once free-flowing cascade of white hair. Only glimpses remain—stray strands peeking from beneath her hood, shifting with the wind.
+
+Between the folds of her scarf and fur-lined hood, a pair of piercing emerald eyes flicker with restless energy, ever watchful, as if tracking something unseen. There’s grace in her movements, an instinctual rhythm, the lingering presence of a dancer and songstress. Yet, it is not just melody that follows her—wisps of elemental energy coil playfully around her form, fire spirits most of all, their flickering warmth a contrast to the biting cold. 
+Ryoko
+APP
+ — 6/9/2025 7:08 PM
+Rumors:
+[Knowledge (local) check]:The Local Archivist: Tavern conversations mention that her vivid recollections include legends from every corner of the region. Whether it’s an obscure village myth or a secret ritual known only to the oldest mountain tribes.
+
+[knowledge religion]:Locals tell a legend that the subtle, playful fire spirits that shimmer around her also carry healing properties. In moments of crisis, their gentle warmth is said to mend minor wounds and soothe frozen limbs.
+
+[perform(or lore:performers?))]The Ember Waltz: Whispers tell of a dance where her movements ignite the very air—sparks sprouting from her steps like living embers. Onlookers claim the flames seem to burn in sync with her graceful turns, as if narrating an ancient tale of passion and renewal.
+(tell me if these do or dont work?)
+casper — 6/9/2025 10:32 PM
+--------------------------------------------------
+PATHFINDER CHARACTER SHEET
+--------------------------------------------------
+
+Name: Ryoko Kuran
+Race: Catfolk
+Class:  thespian purrsician bard
+Alignment:  CG
+Deity:  Yozora shimai
+Size: medium
+Age: 19
+Gender: female
+
+--------------------------------------------------
+ABILITY SCORES
+--------------------------------------------------
+Strength:         12 | +1
+Dexterity:        19 | +4
+Constitution:  13 | +1
+Intelligence:    14 | +2
+Wisdom:           10 | +0
+Charisma:        16 | +3
+
+--------------------------------------------------
+COMBAT STATS
+--------------------------------------------------
+Base Attack Bonus:2
+Hit Points:  27
+Fortitude Save: 2=1+1
+Reflex Save: 7=3+4
+Will Save: 3+0
+Armor Class: 18(19) = +4 (armor) +4(dex)+ (+1 shield)
+casper — 6/9/2025 11:30 PM
+--------------------------------------------------
+SKILLS ( int (2)+6)/lv ()
+--------------------------------------------------
+                                                                                    (virtual/ capped at lv)
+class skills                                                  |  stat |   ranks |misc      |
+Bluff(cha)                                                   |  +03 |           1  |     03     | =7
+Craft(int)                                                    |  +02 |   (+5)0  |     03     | =8
+Craft(int)                                                    |  +02 |   (+5)0  |     03     | =8
+Craft(int)                                                    |  +02 |          2  |     03     | =7
+Diplomacy(cha)                                        |  +03 |          2  |     03     | =8
+Disguise(cha)                                            |  +03 |           1  |     03     | =6
+Heal(cha)                                                   |  +03 |   (+5)0  |     04     | =10
+Knowledge (arcana)(int)                       |  +02 |           1  |     03      | =6
+Knowledge (geography)(int)                |  +02 |           3  |     03     | =8
+Knowledge (local)(int)                           |  +02 |           2  |     03     | =7
+Knowledge (nature)(int)                        | +02 |            2  |     03     | =7
+Knowledge (nobility)(int)                      |  +02 |           2  |     03     | =7
+Knowledge (religion)(int)                      |  +02 |    (+5)0  |     03     | =8
+Linguistics(int)                                         |  +02 |           3  |     03     | =8
+Perception(wis)                                        |  +00 |          2  |     03     | =5
+Perform(dex)(dance)                              |  +04 |   (+5)0  |     03     | =10
+Perform(cha)(song)                                 |  +03 |   (+5)0  |     03     | =9
+Perform(cha)(wind)                                 |  +03 |          2  |     03     | =8
+Profession(wis)(herbalist)                     |  +00 |   (+5)0  |     03     | =6
+Profession(wis)(masseuse)                   | +00 |           2  |     03     | =5
+Sense Motive(wis)                                    | +00 |           1  |     03     | =4
+Spellcraft(int)                                            |  +02 |          1  |     03     | =6
+Survival(wis)                                               | +00 |  (+5)0  |     03     | =6
+Use Magic Device(cha)                           |  +03 |          1  |     03     | =7
+
+non class skills
+Acrobatics(dex)                                       |  +04 |          0  |     0     | =4
+Appraise(int)                                            |  +02 |           0  |     0     | =2
+Climb(str)                                                  |  +01 |           0  |     0     | =1
+Disable Device(dex)                                |  +04 |          0  |     0     | =4
+Escape Artist(dex)                                  |  +04 |          0  |     0     | =4
+Fly(dex)                                                       |  +04 |         0  |     0     | =4
+Handle Animal(cha)                                |  +03 |          0  |     0     | =3
+Intimidate(cha)                                        |  +03 |           0  |     0     | =3
+Knowledge (dungeoneering)(int)        |  +02 |           0  |     0     | =2
+Knowledge (engineering)(int)              |   +02 |          0  |     0     | =2
+Knowledge (history)(int)                       |   +02 |          0  |     0     | =2
+Knowledge (planes)(int)                        |   +02 |          0  |     0     | =2
+Ride(dex)                                                   |  +04 |           0  |     0     | =4
+Sleight of Hand(dex)                              |  +04 |           0  |     0     | =4
+Stealth(dex)                                              |  +04 |          0  |     0     | =4
+Swim(str)                                                   |  +01 |           0  |     0     | =0
+casper — 6/9/2025 11:51 PM
+--------------------------------------------------
+FEATS & SPECIAL ABILITIES
+--------------------------------------------------
+Feats:
+elephant in the room
+flaw-Wiggling (Purring)(retrain at 6th)
+01st-extra skill talent
+03rd-Natural Sciences 
+
+05th-Signature skill (heal)
+07th-Acupuncture  Specialist
+09th-
+13th-
+15th-
+17th-
+19th-
+
+Racial Traits:catfolk
+Unabashed Purrer: When a catfolk is good at purring they let everyone else know. A catfolk with this racial trait gains a bonus purring feat 
+at 1st level
+
+Medicine Cat [DRS]: Catfolk culture places an emphasis on providing for their community in the way of remedy or food. Catfolk with this 
+racial trait gain the Herbalism sphere as a bonus skill talent and a +2 racial bonus to Profession (herbalism) checks.
+
+Precise Hunter: Catfolk are agile skirmishers and hunters, taking down prey with lethal strikes. A catfolk with this racial trait gains Extra 
+Combat Talent in the Fencing sphere as a bonus feat.
+
+Low-Light Vision: Catfolk have low-light vision allowing them to see twice as far as humans in dim light.
+
+Class Features:
+https://www.aonprd.com/ClassDisplay.aspx?ItemName=Bard
+
+http://spheresofpower.wikidot.com/purrsician
+
+http://spheresofpower.wikidot.com/thespian
+
+--------------------------------------------------
+SPELLS (Spellcasting: <Class Level>)
+--------------------------------------------------
+Spell DC = 10 + 1/2 CL + Relevant Ability Modifier
+oracle curse
+You are slow to recognize adversity or danger, although your optimism can be contagious.
+You take a -5 penalty to Perception checks to notice danger and inititive. You gain a +5 to the dc to be demoralized, and during surprise rounds and against traps, you gain a +1 luck bonus to AC and saving throws. Your luck bonus increases by+ 1 every five curse levels.
+
+At 5th level, you gain aura of courage, as a paladin.
+
+At 10th level, when your wounds would normally make you unconscious, you become staggered and remain conscious for one round.
+
+At 15 level, you gain immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of you gains a +4 morale bonus on  saving throws against compulsion effects. This ability functions only while you are conscious, not if you are unconscious or dead.
+
+-------------------------
+traits
+-St. Clydwell's Ward(fth)
+-Gift for Magic(nature)
+-Specific Upgrades(eq)
+
+drawback-Poor Impulse 
+Control(-2 vs mind and 
+emotion,-3 vs anger)
+
+flaw-Claustrophobia
+
+spell points
+6/6
+
+skill leverage skills
+2/2
+perform (dance)
+Perform (song)
+perform (string)
+k. religion
+k. nature
+art.music comp.
+pro.herbalism
+Heal
+survival
+
+accociated skills
+art.music comp.
+perform (dance)
+Perform (song)
+Heal
+Profession (herbalist)
+survival
+k.religion
+c.alchemy
+------------------------
+casting:
+drawbacks-Draining Casting, Mental Focus, Skilled Casting(dance), Magical Signs, innate curse(sanguine), wild magic
+boons-drawback feat(Curse Mastery (Drawback)), Wild Surge, virtuoso
+
+--------------------------------------------------
+EQUIPMENT & GEAR
+--------------------------------------------------
+pocket of holding
+MW flute, umbrella , MW survival kit, cold weather clothing, reversable cloak, Heatstone
+
+weapons:bladed scarf, fighting fan, buckler, rapier, gladius, scimitar
+armor: +1 spidersilk bodysuit
+--------------------------------------------------
+BACKGROUND & NARRATIVE
+--------------------------------------------------
+A northern catfolk dancer of minor renown, she blends eclectic fashion with heavy winter furs that weigh her snowy hair. Her fiery dance, said to summon flame spirits, weaves various cultures, and diverse choreography, enchanting all who watch.
+she traveled to the frozen south seeking to confirm or debunk some of the legends and myths passed down through her nomadic clan.
+-------------------------------------------------- 
+spheres and talents
+-------------------------------------------------- 
+free casting-base sphere (Nature(fire))
+
+free casting-nature-Create Nature (geomancing)
+
+class-guile base sphere(Performance)(lyric)
+
+Emotional Performance(lyric(Rallying Tune))
+
+race-base sphere(herbalism)(remedy)
+race-base sphere (fencing)
+
+Martial tradition:equipment- Dancer Training (discipline)-You may add your Dexterity modifier in place of your Charisma modifier when making Perform (dance) checks.
+
+Martial tradition:equipment- Cloth Snake Puppetry (stance)
+
+Martial tradition:base sphere(brute)
+
+Martial tradition:base sphere(alchemy)(formulae)(Salve)(2 at a time)
+-----Expensive Chemicals-(alchemist fire)(1 sp per rank)(3sp)
+-----Mana Chemistry-Master Chemist(toxin)
+-----Hippocratic Oath-Anasthetic Dosage
+-----Narrow Toxicology(ingested)-Performance enhancer
+
+----------
+guile:trade:Apothecary (trade) [utility]-Additionally, whenever you attempt to create an alchemical remedy, you may pay twice the normal crafting cost to create three instances of that remedy.
+
+guile:trade:Mystic (trade) [utility]-You may treat deadly wounds on a creature even if it was wounded more than 24 hours ago and may treat  deadly wounds on each creature up to twice per day.
+
+guile:trade:Faith Healer (trade) [utility]- You may use the better of your Wisdom and Charisma modifier for Heal checks.
+
+guile:trade:Translator (trade) [utility]-Every time you gain a rank in Linguistics, you learn one additional language in addition to the normal language or languages you learn (this benefit applies retroactively when you gain it permanently).
+
+guile:base sphere(study)
+----Incredible Memory(precient study -->Flawless Recall [utility])
+
+guile:performance (Expanded Repertoire(dance(Dynamic Pace)))
+
+----------
+any-02-nature-Manipulate Nature (geomancing)
+feat-herbalism-Expanded Herbalist(herbal(sweet , bitter, Cool)) 6 at a time
+----------
+utility-01-(Communication)(Collaborative Research (assist) [utility] [DRS])
+-----Bleeding Heart(Candid Disclosure)
+
+utility-01-survivalism(no package(Survivalist-natural shelter)
+
+utility-03-herbalism-Domestic Botany [utility]
+
+utility-03-base sphere(artifice)(artwork)(Inspiring Composition (artwork, flourish) [utility])(artistry-musical composition)
+-----trait-Emotive Styles (artwork, flourish)
+
+----------
+any-04-
+any-06-
+any-08-
+any-10-
+any-12-
+any-14-
+any-16-
+any-18-
+any-20-
+
+utility-05-
+utility-05-
+utility-07-
+utility-07-
+utility-09-
+utility-09-
+utility-11-
+utility-11-
+utility-13-
+utility-13-
+utility-15-
+utility-15-
+utility-17-
+utility-17-
+utility-19-
+utility-19- 
+casper — 7/2/2025 12:55 AM
+Image
+Image
+Image
+casper — 7/14/2025 8:32 PM
+ok, generally will have an aura of 
+catterwalling:+1 competence bonus to hit and damage
+
+warming purring: 15 cold resist(some restrictions apply)
+warming purring: +2d6 fire damage to first successful attack with a physical attack(manufactured weapon, natural weapon, or unarmed strike) 
+
+soothing purring: +2 bonus on saving throws made against pain effects. This bonus also applies on skill checks, saving throws, and ability checks made against an ongoing effect, but not the initial check to avoid the effect
+soothing purring: Whenever a creature benefiting from the soothing purr would receive healing, increase the healing received by half your character level.
+
+possibly also an instrumental effect...usually temp hp in an area 

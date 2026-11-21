@@ -1,0 +1,77 @@
+homebrew
+
+
+The Forever DM — 11/6/2024 10:54 AM
+1) "TINK" rule: When a player lands a hit against an opponent and matches the AC exactly the attack "Tinks" their armor and deals 1/2 damage. when landing a "Tink" to confirm a critical hit it does not confirm. A "tink" on a save still saves. 
+The Forever DM — 11/6/2024 11:03 AM
+2) Skill refinement. Changes your bonus at the expense of variability. (This only works for the crafting of non magical items)
+
+(My bad) 
+Example:
+
+Weapon smith: Basic (No refinement bonus)
+Focused Weapon Smith (Bladed Weapons): (+1 , Can only craft bladed weapons)
+Expertise (Sword) : (+2 , Can only craft swords)
+Exclusive master (Katanas): (+3 , Can only craft Katanas) 
+The Forever DM — 11/8/2024 7:11 AM
+for Mana thief:
+
+I'd say only magical creatures would have spell points available as opposed to animals. summoned creatures of any kind do not (There mana is tied to the plain they are pulled from). however, every humanoid in the world has a base of one spell point. the magical beasts will have 1 for every 2HD 
+The Forever DM — 11/8/2024 9:30 PM
+Additional language in the world, Old Arcanin. The language of the old saints that saved the world.
+The Forever DM — 12/19/2024 10:18 PM
+Experience to buy Feats :
+
+1st 500 Exp
+2nd 2k Exp
+3rd 4.5k Exp
+4th 8k Exp
+5th 12.5k Exp
+6th 18k Exp
+7th 24.5k Exp
+8th 32k Exp 
+9th 40.5k Exp
+10th 50k Exp
+
+you may have up to 1/2 level in purchased bonus feats. 
+experience to buy skill ranks:
+
+300Exp  x individual skill rank
+
+You can only have up to your level in ranks in any skill 
+The Forever DM — 1/21/2025 5:22 PM
+The Wellspring of knowledge: this challis in the chamber of mirrors can be gifted experience in the form of memories. these memories are given as an offering to the lord of whispers. by expending 3 exp you earn 1gp at the challis. this requires 10 minutes per 300 experience gifted.
+The Forever DM — 11/18/2025 5:07 PM
+For Spheres: CL/2 is used as the Spell level.
+
+For sphere effects that require multiple talents to create, add +10gp to the gold multiplier for each additional talent. +50gp for each additional advanced talent or specific feat required.
+
+Cost is paid per spell point required for the effect (minimum 1).
+
+Example 1: You need to purchase a casting of Cure from the Life sphere at CL1. It's a basic effect of the talent that costs 1 SP, cast at level 1. It's 1x1x10 = 10gp.
+
+Example 2: You need to purchase a casting of Forge Earth from the Nature Sphere at CL5, with Nature Lord and Create Nature. It's a 1 SP effect and uses 3 regular talents beyond the base sphere, increasing multiplier from 10 to 40. So it's 5x3x40 = 600gp
+
+Example 3: You want to create an Enduring portal. This requires requires Warp(base), Enduring Portal(Advanced), Mass Teleport, Portal(Advanced), Teleport Beacon (Advanced), Unwilling Teleport, Wormhole. So 3 advanced talents and 3 regular talents. Increasing the multiplier from x10 to x190.
+
+Enduring Portal costs 1 spell point (portal)+2 spell points(permanent), and requires CL15.
+
+So hiring someone to create a permanent enduring portal would cost:
+
+15x7x190 = 19,950gp
+
+Fame Discounts
+Your party’s Fame score reduces costs, reflecting prestige and trust:
+
+Fame Tier    Discount    Notes
+0–9 (Unknown)    None    Standard rates.
+10–19 (Local Known)    –10%    Small-town recognition. (<You are here)
+20–39 (Regional Heroes)    –25%    Builders eager to be associated with the party.
+40–59 (National Renown)    –50%    Half price; fame is payment enough.
+60+ (Legendary)    –75%    Only token payment required.
+The Forever DM — 11/20/2025 3:44 PM
+@everyone Update
+
+ everyone gets the Group leadership sphere (Follower package). everyone in the group Ashen Echos, can give the group one follower talent, you are not required to have this talent. The captured dungeons count as Base of operations for free but only for there respective follower type. (Undead, Water subtype, earth subtype). This is a great way to show the party has started to be recognized by the general population and has started gaining supporters. the followers are loyal to the group as a whole and not any one individual. (base of operations drawback)
+The number of talents that can be put forward will go up as the parties fame increases
+

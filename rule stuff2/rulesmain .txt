@@ -1,0 +1,114 @@
+put that stuff here @MaereanorVaelyanateniPhiSaralian
+gata make a rule or something that noone else posts here.
+MaereanorVaelyanateniPhiSaralian — 5/1/2025 12:42 PM
+DA RULES
+Level:
+3rd
+General Theme or Tone:
+Hobbit meets Power Rangers. As a GM, I prefer the fantastical adventure+intrigue+Exploration stories as well as combat, but fighting feels more like a scene than the explicit challenge (usually)
+Specific Rules:
+Light Body Technique, 
+TBD: "Clear Mind Technique", 
+TBD: "(Guile Guile Technique)",
+Background Skills (Unchained Skills Rules), 
+Fractional Bonuses (relevant for Multiclassing), 
+BONUS RULE: Everyone gets 1 bonus Guile [Utility] Talent every ODD Level!!!!
+Wild Magic Chance is uncapped but cannot trigger Major Events, 
+TBD,
+ELEPHANT IN THE ROOM (Feat Tax system)
+HP:
+Max Hit dice (treat Character hit dice as if Maximum always rolled. Treat Subordinate hit dice as if Average always rolled)
+Stats:
+30 Point Buy
+Restricted List (Things I invite you to ask about if you want to use them. They may be permitted, based on how they are used, but need more oversight):
+Sage (The Class), 
+Wraith (The Class, and any archetypes that use its Features), 
+Scholar (The Class), 
+Advanced/Legendary/Exceptional Talents, 
+Spheres of Origin (Race Builder), 
+Lancer Sphere, 
+Mana Sphere, 
+Spellhacking Sphere, 
+Most of the [3PP] Content on Spheres' Wiki, 
+Aristeia Subsystem (found on Spheres Wiki), 
+
+Forbidden List (Feel Free to ask, I am almost guaranteed to say No):
+Technomancy Sphere, 
+Tech Sphere, 
+Veilweaving Sphere, 
+Tempestarii Prestige Class, 
+Grappling the DM during Session, 
+Leadership (Feat), 
+Vancian (vanilla) Spellcasting (as part of your character build), 
+Probably a lot of stuff that I didn't think to say "not using that", 
+and Most of the rest of the [3PP] Content findable on the Spheres Wiki.
+
+Finally: If I have to have more than AON, Spheres Wiki, and a Single Page from D20PFSRD or some other site open every session or discussion on character-building to understand what something does, Please do not do it. 
+MaereanorVaelyanateniPhiSaralian
+ pinned a message to this channel. See all pinned messages. — 5/1/2025 12:45 PM
+MaereanorVaelyanateniPhiSaralian — 5/1/2025 12:58 PM
+https://pittsburghpfs.com/resources/point-buy-calculator/
+Point Buy Calculator for use in Pathfinder!!!
+Custom:
+LEGENDARY GAMES (Publisher) Version of Kineticist will be permitted. It can be found on the Spheres Wiki. Kineticist content on Spheres Wiki will be RESTRICTED-PERMITTED (aka I don't want to blanket-allow everything and I won't go through everything to currate a list. If you want something, ask and I'll look at it)
+
+Added Note: If you use Legendary Kineticist, you must use the "burn" consequence from normal kineticist (Nonlethal damage equal to your character level per point of burn) rather than from Legendary kineticist (-1 penalty to strength and dexterity checks per point of burn)
+ 
+MaereanorVaelyanateniPhiSaralian — 5/1/2025 9:04 PM
+ELEPHANT IN THE ROOM PAGE, will need to download.
+ 
+Elephant in the Room Blogpost, this gives a quick summary of some of the most popular changes.
+Additional Website for Campaign Rules
+MaereanorVaelyanateniPhiSaralian — 5/4/2025 4:04 PM
+Custom Addition: When you take the "Draining Casting" Drawback (Casting tradition), you may choose to have it deal Lethal instead of Nonlethal. This choice is made once and cannot be changed without changing the entire casting tradition
+Ashrek Dul — 5/19/2025 6:25 PM
+Redirected Question-- Flaws for feats, yes no and is there a limit? 
+https://www.d20pfsrd.com/extras/community-creations/flaws/
+MaereanorVaelyanateniPhiSaralian — 5/19/2025 6:31 PM
+Character creation:
+Flaws for Feats and Traits:
+Flaws: 1 flaw for 1 feat (https://www.d20pfsrd.com/extras/community-creations/flaws/) (max 1)
+Traits: 2 Traits (archives of Nethys, or elsewhere if you want to convince me) +1 trait if you take 1 drawback-trait.
+The Forever DM — 5/19/2025 6:33 PM
+is this class restricted to what kinds we can use? (Not meaning the banned, is this sphere floccus?)
+I would like to multi class, 2 alchemist 1 druid, (Old fassioned lol)
+But i can adjust no problem
+MaereanorVaelyanateniPhiSaralian — 5/19/2025 6:36 PM
+Preferably Spheres, I really don't like using Vancian casting (and spheres is set up as a replacement more than supplement to normal PF spellcasting)
+MaereanorVaelyanateniPhiSaralian — 5/19/2025 7:43 PM
+For Caspar/Ecrada: 
+Thespian + Purrsician + Sphere Bard: Give up Skill Expertise, turn Mid-tier Magic Casting into Midtier Magic+Guile Blended progression (10 of base and utility by level 20)
+MaereanorVaelyanateniPhiSaralian — 5/19/2025 8:05 PM
+For Chad/Sonaht (leon_black007):
+Metal Intolerance Flaw https://www.d20pfsrd.com/EXTRAS/COMMUNITY-CREATIONS/FLAWS/metal-intolerance can be swapped to "You gain Vulnerability to damage from Silver attacks"
+MaereanorVaelyanateniPhiSaralian — 5/19/2025 8:56 PM
+Weather rule regarding Resistances!!!! (for now)
+If you have relevant resistance to damage type (relevant to weather) you treat the Weather Severity as 1 Level lower, +1 level for every 10 Resistance you have.
+ 
+Weather
+For caspar specifically general "energy Resistance", it will not apply to Natural Weather unless it Definitely Makes Sense.
+MaereanorVaelyanateniPhiSaralian — 5/20/2025 4:27 PM
+Money and Leveling Systems
+Start the game with 3rd level Wealth by Level (3000 Gold)
+Level Ups will work by Milestones (aka when I think your group is Ready)
+"EXP" will be granted as fitting, and will be Convertible into gold value, because this is the wilderness - there's not much actual money floating around compared to typical Pathfinder Adventurers.
+MaereanorVaelyanateniPhiSaralian — 5/20/2025 4:34 PM
+Favored Class Bonuses:
+From "Spheres of Origin", any character of any race for any class may use the following Generic favored class bonuses (and the spellcaster ones shown below, if they qualify)
+NOTE: This does not mean you may use Favored Class bonuses specific to any races other than your own.
+Image
+MaereanorVaelyanateniPhiSaralian — 5/20/2025 9:41 PM
+Guile Talents
+In general, Combat/Magic talents cannot Just be used to get Guile talents.
+For some classes that make it VERY reasonable to have blended guile progression, feel free to propose it to me.
+MaereanorVaelyanateniPhiSaralian — 5/22/2025 2:44 PM
+For Chad/Sonaht (leon_black007):
+Custom-ish Feat (Bloody Evolution): When creating a Blood Construct (as with Extract Blood Construct of Blood Sphere), you may treat it as though it had taken the "Eternal Transformation" feat (general feats), selecting a (transformation) talent based on the creature the blood came from, up to DM discretion. (All rules of the normal transformation/eternal transformation feat still apply)
+
+Bonus ruling: Blood Constructs gain the "Freeze" Universal Monster Ability 
+MaereanorVaelyanateniPhiSaralian — 5/26/2025 6:26 PM
+Campaign Roll20 Invite
+https://app.roll20.net/join/19686470/KP2ngg
+MaereanorVaelyanateniPhiSaralian — 5/26/2025 8:55 PM
+For Casper/Ecrada/Ryoko:
+"Wild Surge Skilled Casting": By Discussion with Ecrada, "Wild Surge" casting boon will not be optional. Instead, it is triggered anytime "Ryoko" rolls 15 or higher on the Die (as though a critical threat) when rolling for Skilled Casting.
