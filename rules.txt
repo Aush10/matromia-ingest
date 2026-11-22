@@ -1,0 +1,86 @@
+rules 
+
+This gaming area is intended to be a welcoming space for everyone to come together and enjoy the game as a group. Please be respectful of others, and avoid criticizing any players for any reason. While healthy debates are encouraged, insults and profanity are not tolerated.
+It is at the discretion of the Dungeon Master to permit or disallow any race or character. While the use of profanity is allowed, it should never be used to attack someone's character.
+
+If any disrespectful behavior continues, individuals will be asked to leave. Let’s all be considerate of each other to ensure we all have an enjoyable gaming experience.
+
+Thank you for your cooperation.
+---------------------------------------------------------------------------
+1) Keep the swearing and sexual word play to a minimum unless relevant to the story. 
+
+2) Please keep random banter restricted to the B.S. lounge and out of the roll play channel. 
+
+3) No posting of memes on the roll play page unless approved by the D.M.
+
+4) All posts on the roll play page happen "in game". use backtick to represent in game actions not spoken aloud.
+Example:
+ I grab the sword and point it at the store keep
+ Sigh,  I know he is hiding back there. bring him out!
+The Forever DM — 4/17/2025 6:04 PM
+From this point forward:
+
+No veil's or veil weaving permitted.
+Class restrictions: sage, initiator classes
+Additional restrictions: mechs
+DM me if there is anything else that needs to be added to this list to ensure a functional game in the eyes of this community.
+The Forever DM — 8/19/2025 12:17 AM
+Boss Action Economy System: 
+
+ Core Concept:
+
+Bosses gain multiple initiative slots per round, allowing them to act more frequently and respond to player actions. Their power escalates as their health drops, creating a phase-based threat curve.
+---------
+Baseline Rule: Multi-Initiative Boss Turns
+Initiative Slots:
+
+Boss rolls one initiative as normal
+Then there "sub action" slots at –2 and scaling down from the original initiative roll
+These slots represent Standard Action Turns only.
+The original initiative slot is the Full Round Turn
+Boss can use movement, special attacks, or reactions during these slots
+These slots do not decrease recharge times for special abilities like breaths, those can still only tick down on full rounds.
+-------
+Dynamic Sub-Action Scaling
+Bosses gain additional Standard Action Turns based on the number of players in the encounter. This ensures that the boss remains reactive and threatening, even when facing large parties.
+
+🧍‍♂️ Party Size    🎯 Sub-Action Turns (Standard Actions)
+1–2 players    0 (only Full Round Turn)
+3–4 players    +1 sub-action turn
+5–6 players    +2 sub-action turns
+7–8 players    +3 sub-action turns
+9–10 players +4 sub-action turns
+
+Formula: Sub-Actions = threat (rounded up) ((Number of Players – 2) ÷ 2) This keeps scaling smooth and predictable.
+-----------
+Phase Escalation: Health Thresholds
+
+Below 50% HP:
+Gains +1 Full Round Turn that replaces one of the sub action slots.
+
+Below 25% HP: 
+Gains +1 Full round action that replaces another sub action slot.
+(Max of 3 full round actions at descending initiatives)
+------------
+Final Strike Mechanic: Death Denied
+
+When the boss is reduced to 0 HP, it may attempt to resist death through sheer force of will, divine echo, or monstrous instinct.
+
+Death Denied (Reaction)
+
+Trigger: Boss is reduced to 0 HP
+Effect: Boss may attempt a Fortitude save
+DC = Damage received from the final blow
+Success: Boss resists death for one final moment
+Immediately makes one attack at +4 (melee, spell, or ability)
+This attack may target the creature that struck the final blow, or any target within range
+If any action other than attempting to heal itself is made the boss then perishes as normal at the end of the turn. 
+The Forever DM — 11/19/2025 7:31 PM
+----------------------
+Follower Limitation:
+
+Each player may be accompanied by either one sentient follower or up to two non-sentient/ non-inelegant followers when entering dungeons or dungeon-like areas prior to their completion. This restriction is intended to streamline gameplay by reducing the number of individual actions and limiting the overall presence of figures within these environments. While players are fully encouraged to assume leadership roles in base building, empire creation, and broader player-driven objectives, this guideline is established to ensure that such pursuits do not overshadow the core actions and experiences of individual characters. Thanks guys! 
+The Forever DM — 11/21/2025 8:19 PM
+-------------------------
+up to one plus once per 5 levels you may trade out a single talent for two utility talents 
+origin talents are permitted. both talents must be from the same type of sphere. 

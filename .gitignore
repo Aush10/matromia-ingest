@@ -1,0 +1,4 @@
+output/speech/
+tmp/speech/
+__pycache__/
+*.pyc

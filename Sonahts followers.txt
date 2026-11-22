@@ -1,0 +1,102 @@
+Sonahts followers 
+LS)Leadership Score (10LVL+4Cha+6modifires below)
+(+3)Diadem of Inspiring Leadership
+(+2)Great Renown (Famous/Infamous)
+(+1)Special Powers 
+(-2)(cohort only)Already has a companion of some sort (familiar, animal companion, special mount)
+(+2)(follower only)Stronghold, Guild Hall, or Base of Operations. 
+LS/Cohort /1st/2nd/3rd/4th/5th/6th
+9      6th    —    —    —    —    —    —
+10      7th    5    —    —    —    —    —
+11      7th    6    —    —    —    —    —
+12     8th    8    —    —    —    —    —
+13     9th    10    1    —    —    —    —
+14     10th    15    1    —    —    —    —
+15     10th    20    2    1    —    —    —
+16     11th    25    2    1    —    —
+17     12th    30    3    1    1    —    —
+(c)18 12th    35    3    1    1    —    —
+19     13th    40    4    2    1    1    —
+20     14th    50    5    3    2    1    —
+21      15th    60    6    3    2    1    1
+(f)22 15th    75    7    4    2    2    1
+23     16th    90    9    5    3    2    1
+24     17th    110    11    6    3    2    1
+25+   17th    135    13    7    4    2    2
+
+==1st(75) Soldiers
+(20x)Expert, (20x)Adept, (20x)Warrior, (15x)Aristocrat)
+==2nd(7)Lieutenants
+(3)Adept, (3)Warrior, (1)Aristocrat, 
+==3rd(4)Captain
+(1)Expert, (1)Adept, (1)Warrior (1)Aristocrat, 
+==4th(2) Majors
+(1)Expert (1)Warrior
+==5th(2) General
+(1)Expert (1)Warrior 
+==6th(1)Vice Presidential Assistant
+(1)Aristocrat 
+==Units==
+Band(A)
+(1=3rd/lvl Captain) (1x)Expert
+(2=2nd/lvl Lieutenants) (1x)Warrior, (1x)Adept
+(17=1st/lvl Soldiers) 2x Aristocrats, (5x)Experts, (5x)Adepts, (5x)Warriors,
+
+Band(B)
+(1=3rd/lvl Captain) 1x Adept
+(2=2nd/lvl Lieutenants)(1x)Warrior, (1x)Adept
+(17=1st/lvl Soldiers) 2x Aristocrats, (5x)Experts, (5x)Adepts, (5x)Warriors,
+
+Band(C)
+(1=3rd/lvl Captain) (1x)Warrior
+(2=2nd/lvl Lieutenants)(1x)Warrior, (1x)Adept
+(17=1st/lvl Soldiers) (2x)Aristocrats, (5x)Experts, (5x)Adepts, (5x)Warriors,
+
+Home Front 
+(1=6th/lvl Vice Presidential Assistant (1)Aristocrat 
+(2=5th/lvl Generals (1)Expert, (1)Warrior 
+(2=4th/lvl Majors) (1)Expert, (1)Warrior 
+(1=3rd/lvl Captain) (1x)Aristocrat
+(2=2nd/lvl Lieutenants)(1x)Aristocrat
+(18=1st/lvl Soldiers) (9x)Aristocrats, (5x)Experts, (5x)Adepts, (5x)Warriors 
+Ashrek Dul — 12/10/2025 1:23 PM
+==follower Magic items ==
+--Coin of Remembrance. (25gp)
+(x91)=2,275(price)/2=1,137gp 5sp(cost)
+--Dull, Ioun Stone(Implant) (25gp)(continual flame-free)
+(x91)=2,275(price)/2=1,137gp 5sp(cost)
+Total Cost:2,275gp
+
+==Follower Armor/Weapons== 
+--Lantern Staff(s) (15+50gp)(MW disguise/greatswords?)
+(x91)=5,915gp(price)/3=1,971gp 6sp(cost)
+--Parade Armor for War/Exp/Aristocrates (25gp) 
+(x67)=1,675gp(price)/3=558gp 3sp(cost)
+--Mock Armor for Adepts (90gp) 
+(x24)=2,160gp(price)/3=720gp(cost)
+(Total Cost:3249gp 9sp)
+================================
+Combined Total cost: 5,524gp 9sp(as of 10th lvl) 
+Ashrek Dul — 2/5/2026 2:44 AM
+===Faith and Divine=== 
+Starting AF(5base)
+Faithful: 112+(2AF/at 0th,)
+Heroic Deed: +1(1d5)
+Total AF8
+
+--Starting Faithful: 20 (1d5x10)
++Leadership Feat +92(currently +91/followers and 1 cohort)
++Divine Level:0 (+25% followers per DL)
+
+--Divine Gifts(4/7AF)--
+(1AF)--Hearing the Prayers (1mile/HD) (one way) 
+(2AF)--Identify Faithful close range, 
+(1AF)--Faithful's mark(blessing) 17marked Max(10+1/AF)
+
+A----Paid/Unpaid----V
+
+(5AF)--Faithful Telepathy Unlimited range(same plane) two way communication
+ (8AF)--Evoke the Divine (Blessing)Marked Followers only. grant a talent, feat, or target with a spell. 24hrs or usual duration for spells.
+(2AF)--Divine Reputation +2Diplo
+(2AF) --The Ears of God --(extra planar faithful telepathy.)
+(10AF)--Divine Plane  50ft cube/AF total, private create demiplane. Count as having all spheres for altering plane. standard to make temp door. 

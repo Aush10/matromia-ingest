@@ -1,0 +1,103 @@
+sonahts exp and gear 
+
+Ashrek Dul — 4/25/2025 9:12 PM
+Plans for body/armor slot enchantments 
+100k-10%(feat)/2(craft)= 45k to craft.
++5(enhancement) (duh)
++1(Deathless) ER10 Neg/Pos 
++1(Stanching)(reduce bleed by Enhancement(5))
++1(Vouchsafing)(DR5-- stacking while unconscious.)
++2(Spell Dodging) +4dodge vs spell/spell-likes
+
+Cost abilities (still thinking)
+(1.5k)Easy Travel (med  counts as light load and can march 10hrs/day.
+(4k)Landing ignore 60ft of falling, and can always land on feet.
+(3k)Mindarmor 3/day immediate +5vs mind until next turn.
+Body Enchantments
+Head--Diadem of Inspiring Rule 2.25k(-10%)=2.025kcraft
+Headband--(Future)Mental Superiority+Infinite Library. Headband cost Varies+Eye4k(-10%)(+50%upgrade)=5.6kcraft
+Eyes--(future)
+Neck--(blank)
+Shoulders-(Future)Cloak of Displacement 12k(-10%=10.8kcraft
+Chest--Vest(usually robe) of Arcane heritage  8k(-10%)=7.2kcraft
+Body/Armor--(above)
+Skin Graft-Radiant Skin. 425k(-10%)=3.8kgpCraft
+Arms--Strongarm bracers (3k(-10%=2.7kcraft)
+Arm Graft(1) Entropic Grip(neg) 6k(-10%)=5.4kcraft)
+Arm Graft(2)(future) Entropic Grip(pos) 6k(-10%)=5.4kcraft)
+Wrists--(blank)
+Hands--gloves of shaping 5k(-10%)=4,5kcraft
+Rings(2)--(blank/blank)
+Waist--(blank)
+Waist Graft--Stonelord’s Girdle 3k(-10%)2.7kcraft)
+Feet--(future) boots of the cat 
+Ashrek Dul — 6/17/2025 6:49 PM
+Elemental Augmentations
+
+---Radiant Skingraft [RW HB]
+Aura moderate Light and Nature; CL 6th
+Slot none; Price 5,000 gp (normal), 8,500 gp (perfect); Weight –
+
+The gleaming scales of this smooth, flat cloth seamlessly merges with skin, infusing the target with the radiant sunlight found at the intersections of positive and fire-aligned planes. The recipient of a radiant skingraft can choose to shed light as a torch, shedding normal light in a 20-feet radius, and increasing the light level in an additional 20 feet by one step, up to normal light (darkness becomes dim light, and dim light becomes normal light). This light can be turned on and off as a free action, and its radius can be adjusted down to a minimum of 5 feet. The light emitted by this augmentation does not impede Stealth checks (unless the augmentation is imperfect). A radiant skingraft’s light can be suppressed as a source of magical light, which suppresses this item’s other benefits.
+
+While shedding light, the recipient gains the following benefits:
+
+--Fire resistance 5, which stacks with other sources of fire resistance, +2 circumstance bonus on saving throws against fear, and can roll twice against fear effects and take the better result, +2 circumstance bonus on Diplomacy checks
+
+This elemental augmentation replaces the recipient’s skin (creatures with amorphous, single substance bodies such as oozes and some elementals cannot benefit from this elemental augmentation).
+
+---Stonelord’s Girdle [RW HB]
+Aura moderate Alteration and Nature; CL 7th
+Slot none; Price 4,000 gp (normal), 6,000 gp (perfect); Weight –
+
+The creature’s waistband is a heavy band of carven, fine stone, the power of great quarries of earthen realms.
+
+As long as the recipient is touching the ground, the recipient of the stonelord’s girdle gains a +2 untyped bonus to CMD against bull rush, drag, push, and trip combat maneuvers. If the recipient has not moved since their previous turn, the recipient also gains a +1 shield bonus to AC and CMD until the start of their next turn.
+
+Once per day as an immediate, if the recipient would be knocked prone or forcibly moved (except by mind-affecting or teleportation effects), the recipient is not knocked prone or moved (this may prevent further effects from occurring). 
+
+This elemental augmentation replaces the recipient’s hips (or pelvis).
+
+
+(Next) Entropic Grip [RW HB]
+Aura moderate Death; CL 10th
+Slot none; Price 9,000 gp (normal), 12,000 gp (perfect); Weight –
+
+The recipient of an entropic grip gains a melee touch attack that is treated as a light weapon and can be used whenever the wearer could make an attack (such as during an attack action or attack of opportunity) dealing 3d6 negative energy damage. This is a supernatural effect. The entropic grip’s energy damage cannot damage objects, cannot be used to heal a creature normally healed by negative energy, and deals no damage to a creature normally healed with negative energy (such as undead). The recipient is considered armed with this melee touch attack and can be used to make attacks of opportunity.
+
+Once per round, instead of making an attack with the entropic grip, the recipient can apply the entropic grip’s negative energy damage to a weapon attack (such as an attack made with a manufactured weapon, natural attack, or unarmed strike), dealing damage as though the target were also struck by the entropic grasp’s melee touch attack.
+
+This elemental augmentation replaces one of the recipient’s arms or armlike appendages.
+
+Construction Requirements
+Craft Marvelous Item, Death, Destruction (Gloom Blast (blast type)), 6,000 gp (perfect) 
+Ashrek Dul — 6/17/2025 7:54 PM
+====Consumable/limited use equipment====(Not yet implemented)
+--Cleansing Potion
+Aura faint Life; CL 1st,(50go)
+Made from blessed water, a cleansing potion removes the fatigued, sickened, and battered conditions, and lessens exhausted and nauseated by one step. If the status conditions healed or lessened are part of an ongoing effect, it only suppresses or reduces the effect for 1 round.
+
+---Cleansing Potion, Greater
+Aura faint Life; CL 2nd,(200 gp)
+Made from blessed water touched by a feather from an angelic being, this potion restores the same effects as the cleansing potion as well as completely removing the exhausted and nauseated conditions, and makes check with a +2 bonus against the DC of any poison or disease the target is suffering from, removing the poison or disease if successful.
+
+---Current Events Incense [CoP]
+Aura faint Divination; CL 2nd,(Price 200 gp)
+
+Once lit (normally a full-round action, or a standard action with a tindertwig), this incense will continue to smoke in a 5-foot square for 1 minute. Any creature that spends at least 1 round inside the cloud of smoke may make a single Diplomacy check to gather information as though you had spent 1d4 hours talking to local people, without having to use an action to do so. An individual may not make more than one gather information check this way. Attempting multiple Diplomacy checks made by multiple creatures to gather information on the same topic always grants the same information as the first check.
+
+---Disposable Magic Sword [TS](attached to actual sword like a charm)
+Aura strong Destruction; CL 20th
+Weight 3 lbs.; Price 5,000 gp
+
+Incredibly illegal in most areas and kept from wider circulation through a combination of the expense per use and difficulty of crafting them, disposable magic swords look like red-bladed longswords at first glance (although they make poor weapons and can only be used as improvised weapons if swung as one). However, when swung overhead as a standard action, they deal 20d4 sonic damage to all targets (including objects) in a 75-foot cone or a 300-foot line (Reflex DC 20 for half). This blast deals full damage to objects and ignores up to 10 points of hardness. As the name implies, disposable magic swords crumble after unleashing this magic blast. 
+Ashrek Dul — 11/26/2025 6:53 PM
+---Demon Senses
+Aura strong conjuration [evil]; CL 15th; Slot none; Price 20,000 gp; Weight 1 lb.
+
+This implant appears as a demonic eye, tongue, finger, ear, or nose floating in a small jar of transparent fluid. In order to gain the benefit of this implant, the contents of the jar—thick fluid, body part, and all—must be consumed as a full-round action. This immediately grants a permanent +8 racial bonus on all Perception checks (note that as a racial bonus, this does not stack with any other racial bonuses a creature might already possess). After gaining this bonus, the part of the creature’s body corresponding to the body part eaten changes to match the eaten part—eyes might become red, ears might grow long and pointed, a tongue might become forked, and so on
+Ashrek Dul — 11/26/2025 7:07 PM
+---Gossip Glass
+Aura faint divination; CL 1st; Slot eyes; Price 3,600 gp; Weight 1 lb.
+
+This silver, bejeweled set of opera glasses is indistinguishable from a regular set, save that when you look through the lenses you gain a +4 competence bonus to Perception checks. When reading lips, you can understand any spoken language as the comprehend languages spell. You can only use a gossip glass to spy on conversations within line of sight and must be able to see people speak in order to read their lips.

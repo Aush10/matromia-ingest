@@ -1,0 +1,124 @@
+Character template
+Name: [ ]                                                Player Name [ ]
+
+Race [ ]  Age [ ]  Gender [ ]  Alignment [ ]
+Class [ ]  Lvl [ ]
+
+Move Speed: Land [ ]  Swim [ ] Burrow [ ] Climb [ ] Fly [ ] 
+
+AC [ ] Flat Footed [ ] Touch [ ] 
+
+CMB [ ]  CMD [ ] 
+
+STR ( ) [+ ]
+DEX ( ) [+ ]
+CON ( ) [+ ]
+INT ( ) [+ ]
+WIS ( ) [+ ]
+CHA ( ) [+ ]
+
+Saves:  FORT [ ]  WIL [ ] REFLEX [ ]
+--------------------------------------------------------- Combat ------------------------------------------------------
+
+Name of attack: (Dice roll + Modifiers) {Crit Range} [Attack Range and damage type]
+
+
+
+
+----------------------------------------------------------- Equipment ----------------------------------------------------
+
+(Slot)- Name of object: Effect [Bonus] (Gp cost)
+-------------------------------------------------------- Feats / Traits ------------------------------------------------------
+                                   (Always put where a feat/ Trait came from )
+
+
++ Feat (Flaw) [ ] 
++ First Level Feat [ ] 
++ Third Level Feat [ ] 
++ Fifth Level Feat [ ] 
+-------------------------------------------------------------------------------------------------------------------------------
+
+-Flaw [ ] 
+
+-Drawback [ ] 
+-Drawback [ ] 
+
++ Trait [ ]
++ Trait [ ]
++ Trait [ ]
++ Trait [ ] 
+---Skill Ranks Per Level: [ ] + Int  [ ] Total { }
+
+Skills:
+Total [ ] = Ranks [ ] + Acrobatics (Dex+ )
+Total [ ] =  Ranks [ ] + Appraise (Int + )
+Total [ ] = Ranks [ ] + Bluff (Cha+ )
+Total [ ] = Ranks [ ] + Climb (Str+ )
+Total [ ] = Ranks [ ] + Craft (Int+ )
+Total [ ] = Ranks [ ] + Diplomacy (Cha+ )
+Total [ ] = Ranks [ ] + Disable Device (Dex+ )
+Total [ ] = Ranks [ ] + Disguise (Cha+ )
+Total [ ] = Ranks [ ] + Escape Artist (Dex+ )
+Total [ ] = Ranks [ ] + Fly (Dex+ )
+Total [ ] = Ranks [ ] + Handle Animal (Cha+ )
+Total [ ] = Ranks [ ] + Heal (Wis+ )
+Total [ ] = Ranks [ ] + Intimidate (Cha+ )
+Total [ ] = Ranks [ ] + Knowledge (History) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Arcana) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Dungeoneering) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Geography) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Religion) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Planes) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Nature) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Local) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Engineering) (Int+ )
+Total [ ] = Ranks [ ] + Knowledge (Nobility) (Int+ )
+Total [ ] = Ranks [ ] + Linguistics (Int+ )
+Total [ ] = Ranks [ ] + Perception (Wis+ )
+Total [ ] = Ranks [ ] + Perform (Cha+ )
+Total [ ] = Ranks [ ] + Profession (Wis+ )
+Total [ ] = Ranks [ ] + Sense Motive (Wis+ )
+Total [ ] = Ranks [ ] + Sleight of Hand (Dex+ )
+Total [ ] = Ranks [ ] + Spell craft (Int+ )
+Total [ ] = Ranks [ ] + Stealth (Dex+ )
+Total [ ] = Ranks [ ] + Survival (Wis+ )
+Total [ ] = Ranks [ ] + Swim (Str+ )
+Total [ ] = Ranks [ ] + Ride (Dex+ )
+Total [ ] = Ranks [ ] + Use Magic Device (Cha+ ) 
+-------------------------------------------------------- Racial Features -------------------------------------
+-
+-
+-
+-
+-
+-
+-
+------------------------------------------------------ Class Features ------------------------------------------------
+-
+-
+-
+-
+-
+-
+-
+------------------------------------------------------ Inventory ------------------------------------------------------
+
+Light Load [ ] Medium [ ] Heavy / Over Head [ ] Push Or Drag [ ]
+
+[Weight]- Name (Gp cost)
+
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-
+[ ]-

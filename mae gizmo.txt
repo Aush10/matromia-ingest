@@ -1,0 +1,139 @@
+mae gizmo
+
+@MaereanorVaelyanateniPhiSaralian
+MaereanorVaelyanateniPhiSaralian — 11/26/2024 12:08 PM
+Gizmos Session 1:
+Image
+MaereanorVaelyanateniPhiSaralian — 11/26/2024 12:16 PM
+Change:
+-1 Targetted Lifter
+15 minutes spent Maintaining other gizmos and crafting 2 (1+1/4 skill ranks) Gizmos
++2 Lifters (minor) 
+MaereanorVaelyanateniPhiSaralian — 11/27/2024 10:54 AM
++2 Body Bags (minor) from last session
+Ashrek Dul — 12/3/2024 4:17 PM
+can you make a list of Gizmos/gadgets you can give/ install in people? as well as if they are permanent and how much materials you need?
+MaereanorVaelyanateniPhiSaralian — 12/3/2024 4:22 PM
+I can. In general, no Gizmos are permanent and none I have currently require non-negligible materials.
+MaereanorVaelyanateniPhiSaralian — 12/3/2024 4:47 PM
+Main Gizmo Options:
+
+Blaster (Cone, Ray, 5ft Diameter Orb, Line, Self-5ft radius, Short Range Barrage - dex negates)
+Can be added to a weapon like a strike talent, uses its OWN special attack action.
+Can be designed to not affect self and allies.
+Blasters can be Implanted into a Limb. 
+
+Extra Limbs: Normal limbs, also options for Swim and Climb speeds. Wings, Legs, Arms, Heads, Tails. Can also grant Snake tails and Scent. Limbs can have extra bits.
+
+Aerial Devices: Glider, Lifter, Flier (limited uses per 15 minute period), Offensive Lifter (Shoot it at someone or apply it via weapon attack). 
+
+Weapon Benefits (Make it masterwork or remove penalties from nonproficiency), another option to change Damage type. 
+
+Physical Boosts: Add a small-ish bonus to choice of Str, Dex, or Con ability and skill checks. 
+
+Emergency Supplies: Fire Extinguisher, Blinding Flashlight, Anti-gas/breathing mask, Climate (Temperature) Controller, Poison/Acid Purifier, 
+
+A Cell Phone, I think? I can make an Emergency Distress beacon that will be VERY OBVIOUS to help people find you. (25 word message normal, fewer for emergency)
+
+Medical Stuff: Body bag to preserve Bodies. Health Monitor to keep track of conditions and fix ongoing ones. Rapid injector to...Rapidly inject stuff....
+Extra Organs too, and a Health Optimizer to make healing more effective. 
+
+Extra storage spots can be attached to limbs. 
+
+Personal Field Generators:
+THP (lost before other THP, slow regen)
+Stealth (Small bonus, can also hide in plain sight when holding still)
+Elemental Resistance (Small resistance to Energy of Choice)
+Damage Reduction (Choose DR 3/Bludgeoning OR Slashing OR Piercing, of choice)
+Tactile Field (Bonus to CMD, Acrobatics, and Escape Artist)
+
+Aerial Superiority Program: Bonuses vs Flying opponents 
+MaereanorVaelyanateniPhiSaralian — 3/11/2025 5:05 PM
+http://spheresofpower.wikidot.com/tinker#toc37
+(see Emergency Breather)
+MaereanorVaelyanateniPhiSaralian — 4/8/2025 7:35 PM
+Forwarded
+11 Slots
+Ghost Touch:
+DGA
+Caspar
+Sonaht
+Varik's shield
+Vaela's Armor
+
+Killer Drill: 
+Varik
+
+Fracture Adapter: 
+Varik
+
+
+Ground Superiority:
+Mae
+
+Pump: 
+Mae
+
+Storage container: 
+5x on Mae
+
+Tutor Routin: 
+1 on Mae
+#general  •  4/8/2025
+MaereanorVaelyanateniPhiSaralian — 4/16/2025 5:25 PM
+Mae's Gizmo Market is open for Requisitions
+Mae's Current (pressure jack may change...) Plan for Tinker Talents is shown, except Advanced Prosthetics, Spooky Set, and talents relevant only to Mechanoids.
+Image
+MaereanorVaelyanateniPhiSaralian — 4/16/2025 5:33 PM
+Suggestions for people: 
+Armor Modifications: Make it lighter, protect against Critical hits, partially apply vs touch.
+Aviation Set: Throwable gizmo to make Up-to-Large targets rise into the air. Also gliders.
+Defensive Set: Turn your shield into a portable covering wall, or improve the benefit of Defensive-Style combat.
+Emergency Gear: Flashlights, Fire Extinguishers, and Filtering toxins from the air.
+Grappling Hook: If you wanna Swing.
+Medical Set: If you like HP.
+Disruption Set: If you don't like Other people.
+Pressure Jack: If you like pushing people, carrying stuff, and raising walls.
+Primal Augmentations: If you want to be a Techno-Furry.
+Prosthetics Mastery: If you want to pretend your Techno-Furry Gizmos aren't for that purpose.
+Repair Kits: If you are a robbutt.
+Technological Weapons: If you like Destruction sphere but aren't willing to commit.
+Respond on this Thread, if you please.
+1 Message ›
+There are no recent messages in this thread.
+casper — 4/16/2025 5:34 PM
+ill delete it in a moment, ever consider putting these in a thread? literally only bringing it up because i realised you could when i put elffy on here
+ill delete it in a moment, ever consider
+3 Messages ›
+There are no recent messages in this thread.
+MaereanorVaelyanateniPhiSaralian — 7/23/2025 8:18 PM
+https://docs.google.com/spreadsheets/d/1aIopAM0XjZ1b8yO4Dz0kIMHjLRCdHvePqXLnok_NtXk/edit?usp=sharing
+The Forever DM — 7/23/2025 8:20 PM
+https://tenor.com/view/inspector-gadget-tools-devices-hat-gif-8109723
+MaereanorVaelyanateniPhiSaralian — 7/25/2025 7:38 AM
+Forwarded
+Anyway, looks like my game plan will be using XP and training with Misero (or, better yet, the Beastmastery guild) to develop Sensory Set [utility] and Transmission Mastery [Utility]
+
+From there, its a Matter of Retraining a talent or two to get Extra Automatons and Advanced Computation talents, both needed in order to make multiple small-scale mechanoids with multiple low-HD AI pilots
+
+
+Looks like I can Swap out "Adjust Parameters [gizmo]" feat for Extra Automatons, and "Aviation Set" for Advanced Computation. 
+
+I'll just have to put Aviation onto a task set, and won't be able to use flight or Lifters (gliders still work) while That Set isn't active
+#bs-lounge  •  7/25/2025
+(To keep my planning findable)
+MaereanorVaelyanateniPhiSaralian — 12/10/2025 9:27 AM
+Mae's Armporium will soon be opening, featuring:
+Bedsyde Mannor (Nickname Syde) - An arm packed full with 9 doses of any minor Alchemical item that can be injected as a move action, and comes with monitoring systems to guarantee your health and safety.
+
+Swarm Spraeer (Nickname Raheer) - All variety of AOE options, can also be custom ordered to launch other projectiles
+
+Monkey Tael (Nickname Teal) - If you want some kind of extra limb, you've got it. Swimming fin, Snake tail to slither or constrict (*cannot use other features while constricting), Extra legs to run faster, Extra hands to help you hold your coffee on the go, and Spooder feet to cling to your best friend: walls.
+
+These are only a Taste of the True power of MaeTech™, your friendly neighborhood Arms Dealer.
+
+
+(Disclaimer: Arms manufactured by MaeTech™ may be equipped over existing limbs or implanted elsewhere in the body as an additional limbs. MaeTech™ Maintains no legal responsibility for users being shocked or exploded upon tampering with MaeTech™ arms)
+ 
+MaereanorVaelyanateniPhiSaralian — 4/27/2026 7:11 PM
+MAE'S ARMPORIUM IS UNDERGOING NEW MANAGEMENT
