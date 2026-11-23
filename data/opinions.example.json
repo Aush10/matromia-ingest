@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "description": "Listener-owned mood, authority-awareness, rejection, ignore, and nap state. Never store credentials here.",
+  "globalMood": 0,
+  "people": {},
+  "subjects": {}
+}

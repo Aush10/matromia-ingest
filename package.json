@@ -1,0 +1,15 @@
+{
+  "name": "matromia-ingest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local Matromia archive, lookup tools, and Autumn Solstice Q&A service.",
+  "scripts": {
+    "start": "node src/server.mjs",
+    "index": "node src/build-index.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Autumn Solstice · Matromia Ingest</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div>
+      <p class="eyebrow">MATROMIA INGEST</p>
+      <h1>Autumn Solstice</h1>
+      <p class="tagline">Kitsune bard, lantern-news collector, and keeper of extremely tangled stories.</p>
+    </div>
+    <div class="status" id="status"><span class="dot"></span> Waking the archive…</div>
+  </header>
+
+  <section class="identity card">
+    <label>Your name <input id="userId" maxlength="80" value="traveler" autocomplete="nickname"></label>
+    <label>Author key <input id="authorKey" type="password" autocomplete="off" placeholder="optional / kept for this tab"></label>
+    <p>Author credentials unlock corrections, archive edits, <code>Debug:</code>, and <code>wakeup autumn</code>.</p>
+  </section>
+
+  <main>
+    <section class="chat card">
+      <div class="section-title">
+        <div><p class="eyebrow">THE LANTERN TABLE</p><h2>Ask Autumn</h2></div>
+        <span id="tokenStatus" class="chip">freshly awake</span>
+      </div>
+      <div class="quick-prompts">
+        <button data-prompt="Welcome me to Gemscale City">Welcome me</button>
+        <button data-prompt="What's the latest news aboard the Pearl?">Report the news</button>
+        <button data-prompt="Tell me a story about Aeternum">Tell a story</button>
+        <button data-prompt="Dream up a non-canon tavern rumor about Mae">Dream a rumor</button>
+      </div>
+      <div id="messages" class="messages" aria-live="polite">
+        <article class="message autumn"><strong>Autumn</strong><p>Oh! A traveler! Pull up a chair, friend—I have tea, news, and at least three stories that begin with “this seemed wise at the time.” :)</p></article>
+      </div>
+      <form id="chatForm" class="composer">
+        <textarea id="chatInput" rows="3" maxlength="4000" required placeholder="Ask about a person, place, event, thing, story, or rumor…"></textarea>
+        <button class="primary" type="submit">Send to Autumn</button>
+      </form>
+    </section>
+
+    <section class="tools card">
+      <nav class="tabs" aria-label="Archive tools">
+        <button class="active" data-tab="lookup">Lookup</button>
+        <button data-tab="saved">Pinned & favorites</button>
+        <button data-tab="ingest">Add / update</button>
+      </nav>
+
+      <div class="tab-panel active" id="tab-lookup">
+        <div class="section-title"><div><p class="eyebrow">HIDDEN INVENTORY</p><h2>Canon lookup</h2></div></div>
+        <form id="searchForm" class="search-row">
+          <input id="searchInput" required placeholder="Casper, Conquorine, boss rules…">
+          <button type="submit">Search</button>
+        </form>
+        <div id="searchResults" class="results empty">Search the local index. Results never spend API credit.</div>
+      </div>
+
+      <div class="tab-panel" id="tab-saved">
+        <div class="section-title"><div><p class="eyebrow">YOUR FLAGS</p><h2>Pinned & favorites</h2></div></div>
+        <h3>Pinned</h3><div id="pinnedResults" class="results empty">Nothing pinned yet.</div>
+        <h3>Favorites</h3><div id="favoriteResults" class="results empty">No favorites yet.</div>
+      </div>
+
+      <div class="tab-panel" id="tab-ingest">
+        <div class="section-title"><div><p class="eyebrow">AUTHOR LISTENER</p><h2>Add or update canon</h2></div></div>
+        <p class="notice">This listener writes after checking the author key. Autumn receives no write tool.</p>
+        <form id="ingestForm" class="ingest-form">
+          <label>Repository path <input id="ingestPath" required placeholder="user_content/My Notes.md"></label>
+          <label>Action
+            <select id="ingestMode">
+              <option value="create">Create new file</option>
+              <option value="append">Append to section</option>
+              <option value="replace">Replace section</option>
+            </select>
+          </label>
+          <label>Section heading <input id="ingestSection" placeholder="Optional for append; required for targeted replacement"></label>
+          <label>Content <textarea id="ingestContent" rows="10" required placeholder="The corrected or new archive content…"></textarea></label>
+          <button class="primary" type="submit">Apply authorized update</button>
+          <button id="reindexButton" type="button">Rebuild lookup only</button>
+        </form>
+        <pre id="ingestResult" class="result-note" aria-live="polite"></pre>
+      </div>
+    </section>
+  </main>
+
+  <footer>Local-only by default · Autumn reads canon, listeners manage state · API keys never enter the index</footer>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
